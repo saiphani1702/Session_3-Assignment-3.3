@@ -1,0 +1,7 @@
+/*giving different attributes for body and h1 tag*/
+header{
+    background: red;
+}
+h1{
+    color: blue;
+}

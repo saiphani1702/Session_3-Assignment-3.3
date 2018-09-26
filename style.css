@@ -1,0 +1,6 @@
+.main{
+    background:blue /*overiding external stylesheet by specificity*/
+}
+.title{
+    color:white/*overiding external stylesheet by specificity*/
+}
